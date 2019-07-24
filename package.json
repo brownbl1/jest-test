@@ -1,0 +1,25 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^24.8.0",
+    "jest-junit": "^7.0.0"
+  },
+  "jest": {
+    "reporters": [
+      "default",
+      "jest-junit"
+    ]
+  },
+  "jest-junit": {
+    "includeConsoleOutput": true
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

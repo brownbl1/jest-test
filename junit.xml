@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="2" failures="0" time="7.918">
+  <testsuite name="hello world" errors="0" failures="0" skipped="0" timestamp="2019-07-24T15:59:45" time="3.159" tests="1">
+    <testcase classname="hello world should work" name="hello world should work" time="0.016">
+    </testcase>
+  </testsuite>
+  <testsuite name="hello world 2" errors="0" failures="0" skipped="0" timestamp="2019-07-24T15:59:45" time="3.155" tests="1">
+    <testcase classname="hello world 2 should work" name="hello world 2 should work" time="0.016">
+    </testcase>
+  </testsuite>
+</testsuites>
